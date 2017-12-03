@@ -1,0 +1,3 @@
+infrastructureDesc : infrastructureDesc from application-mypillar.yml
+infrastructureUserName : infrastructureUserName from application-mypillar.yml
+infrastructurePassword : infrastructurePassword from application-mypillar.yml

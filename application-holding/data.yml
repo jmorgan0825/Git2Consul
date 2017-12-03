@@ -1,0 +1,3 @@
+infrastructureDesc : infrastructureDesc from application-holding.yml
+infrastructureUserName : infrastructureUserName from application-holding.yml
+infrastructurePassword : infrastructurePassword from application-holding.yml
